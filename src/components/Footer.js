@@ -19,7 +19,7 @@ function Footer() {
 
             <a href="tel:+919007795158" target="_blank">
               <Phone />
-              99706-28425(Abantika Basu)
+              90077-95158 (Abantika Basu)
             </a>
 
             <a href="tel:+919899556677" target="_blank">
