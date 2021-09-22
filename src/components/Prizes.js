@@ -35,7 +35,7 @@ function Prizes() {
 
         <div className="Prizes-secondary">
           <p className="Prizes-secondary-text">
-            Participation Certificates for all participants
+            Exciting Goodies and Certificates for all Participants
           </p>
         </div>
       </div>
